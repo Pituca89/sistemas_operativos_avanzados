@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntroAndroid</string>
+    <string name="btn_start">START</string>
+    <string name="second_activity">SEGUNDA ACTIVITY</string>
+    <string name="btn_background">INICIAR SERVICIO BACKGROUND</string>
+    <string name="btn_foreground">INICIAR SERVICIO FOREGROUND</string>
+    <string name="btn_jobservice">INICIAR WORKER MANAGER SERVICE</string>
+</resources>
